@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 .bg-primary {
-	background-color: #bd3a13!important;
+	background-color: #307329!important;
 	background-image: url(../assets/img/always-grey.png);
 /* This is mostly intended for prototyping; please downnload the pattern and re-host for production environments. Thank you! */
 }
